@@ -4,7 +4,7 @@
   "description": "A video idea platform",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js --no-deprecation"
   },
   "author": "Mihai",
   "license": "ISC",
